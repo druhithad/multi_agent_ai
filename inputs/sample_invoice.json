@@ -1,0 +1,6 @@
+{
+  "invoice_id": "INV-1001",
+  "amount": 1200,
+  "date": "2025-05-30",
+  "intent": "Invoice"
+}
